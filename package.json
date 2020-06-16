@@ -1,0 +1,17 @@
+{
+  "name": "email_maker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inline-css": "^2.6.3",
+    "node-html-parser": "^1.2.19",
+    "pretty": "^2.0.0",
+    "request": "^2.88.2"
+  }
+}
